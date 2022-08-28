@@ -8,8 +8,7 @@ I'm Inuka Rodrigo from Sri Lanka, and I really enjoy learning languages like Pyt
 * 🐍 PYTHON
 * 📈 R
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/inukarodrigo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/inuka-rodrigo/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_inux_20_/)  
-
-
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=inukarodrigo&theme=cobalt&show_icons=true)
+
+### Talk with me, I am kinda awesome:
+[<img align="left" alt="holisitc_developer | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/inukarodrigo)  [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/inuka-rodrigo/)  [<img align="left" alt="holisitc_developer | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/_inux_20_/)  
