@@ -1,6 +1,6 @@
 ### Hi there 👋, Inuka Rodrigo
 #### Artificial Intelligence and Data Science
-![Artificial Intelligence and Data Science](https://media-exp1.licdn.com/dms/image/C5616AQHsS2s_52okgQ/profile-displaybackgroundimage-shrink_350_1400/0/1661670183105?e=1667433600&v=beta&t=_shyKNntlWG0yOsm49DlETgnXPm84Tkq6o2jdkunpvI)
+![Artificial Intelligence and Data Science](https://github.com/inukarodrigo/inukarodrigo/blob/main/I'm%20Inuka.png)
 
 I'm Inuka Rodrigo from Sri Lanka, and I really enjoy learning languages like Python and R. I have passion for learning and sharing knowledge with others as publicly as possible. 
 
